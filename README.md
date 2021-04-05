@@ -1,1 +1,1 @@
-# Simple-landing-page.g
+# Simple-landing-page.github.io
